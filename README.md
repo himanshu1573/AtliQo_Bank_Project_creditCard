@@ -10,7 +10,7 @@ Atliq Bank's credit card project involves two critical phases: **market identifi
 ### **Phase One: Data Analysis**  
 Focused on thorough data exploration and deriving insights to inform the next steps.  
 
-![Phase 1 Completion](https://github.com/himanshu1573/AtliQo_Bank_Project_creditCard/blob/main/Phase_B/analysis.png)
+![Phase 1 Completion](Phase_B/analysis.png)
 
 1. **Data Validation**  
    - Ensured the integrity and consistency of the dataset.  
@@ -36,7 +36,7 @@ Focused on thorough data exploration and deriving insights to inform the next st
 ### **Phase Two: Hypothesis Testing and Decision-making**  
 Utilized hypothesis testing to validate assumptions and plan the marketing campaign.
 
-![Phase 2 Completion](https://github.com/himanshu1573/AtliQo_Bank_Project_creditCard/blob/main/Phase_B/Screenshot%202024-12-08%20at%2011.10.15%E2%80%AFPM.png)
+![Phase 1 Completion](Phase_B/Screenshot)
 
 1. **Campaign Planning**  
    - Strategized promotional activities tailored to the target demographic.  
